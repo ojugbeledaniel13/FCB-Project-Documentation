@@ -1,6 +1,8 @@
 # FCB-Project-Documentation
 ## Project Outline
  This project provides a comprehensive analysis of survey data collected from a group of students. The analysis focuses on various demographic and educational metrics to understand the composition and characteristics of the surveyed population. The visualized data includes information on gender distribution, marital status, age range, highest level of education, and residential location by state.
+
+ 
  ## Data source
 
  ## Tools used 
@@ -48,6 +50,6 @@ Feel free to fork this repository and submit pull requests. For major changes, p
 
 
 
-![](expert-hive%20logo.jfif)
+![](Annotation%202024-07-26%20104656.png)
 
 

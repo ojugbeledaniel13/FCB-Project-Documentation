@@ -50,9 +50,13 @@ This analysis can be useful for educational researchers, policy makers, and inst
 
 
 
-Repository Contents
+
+
+## Repository Contents
 images/: Contains the visual report image.
 data/: Contains any raw data files used for the analysis (not included in this summary).
 scripts/: Contains scripts used to process and analyze the data (if applicable).
-How to Contribute
+
+
+## How to Contribute
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.

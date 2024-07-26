@@ -41,15 +41,18 @@ Each chart is tailored to highlight specific aspects of the data, making it easy
 Usage
 This analysis can be useful for educational researchers, policy makers, and institutions looking to understand the demographic and educational landscape of students within the surveyed group. It can aid in making informed decisions and tailoring educational programs to better meet the needs of different student groups.
 
+
+
+## Data Visualization for the Analaysis
+
+![](Annotation%202024-07-26%20104656.png)
+
+
+
+
 Repository Contents
 images/: Contains the visual report image.
 data/: Contains any raw data files used for the analysis (not included in this summary).
 scripts/: Contains scripts used to process and analyze the data (if applicable).
 How to Contribute
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
-
-
-![](Annotation%202024-07-26%20104656.png)
-
-

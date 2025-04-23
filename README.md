@@ -1,4 +1,4 @@
-# FCB-Project-Documentation
+## FCB-Project-Documentation
 One of the group projects from Pastor E.A  Adeboye Incubator Scholarship opportuninty in the year 2024.
 ## Project Outline
  This project provides a comprehensive analysis of survey data collected from a group of students. The analysis focuses on various demographic and educational metrics to understand the composition and characteristics of the surveyed population. The visualized data includes information on gender distribution, marital status, age range, highest level of education, and residential location by state.
